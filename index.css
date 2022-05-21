@@ -1,0 +1,110 @@
+body{
+    font-family: 'Roboto Condensed', sans-serif;
+}
+
+.ramo{
+    margin-top: 80px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    max-width: 230px;
+    max-height: 250px;
+}
+
+#navbar{
+    position: fixed;
+    transition: 0.3s;
+    top: 0;
+    width: 100%;
+    font-size: 19px;
+    margin-left: -8px;
+    /* width: 1208px; */
+    margin-top: -24px;
+    background-color: black;
+    height: 120px;
+    border-radius: 0px 0px 12px 12px;
+}
+
+#navbar ul{
+    float: left;
+    padding-top: 39px;
+    margin-left: 10px;
+    margin-right: 40px;
+    text-align: center;
+}
+
+#navbar ul .razones{
+    padding-right: 30px;
+}
+
+#navbar ul .canciones{
+    padding-left: 20px;
+}
+
+
+#navbar ul a{
+    text-decoration: none;
+    opacity: 1;
+    color: white;
+}
+
+#navbar ul a:hover{
+    transition: 500ms;
+    color: #6dd5d4;
+}
+
+#navbar #clock{
+    font-size: 19px;
+    float: right;
+    margin-right: 30px;
+    margin-top: 45px;
+}
+
+
+.parr{
+    width: 50%;
+    margin-right: auto;
+    margin-left: auto;
+    text-align: center;
+    margin-bottom: 100px;
+}   
+.flores{
+    margin-left: 50px;
+}
+
+.cheems{
+    margin-top: -50px;
+    max-width: 200px;
+    max-height: 200px;
+    float: left;
+    
+}
+
+hr{
+    opacity: 0.09;
+    margin-bottom: 50px;
+    margin-top: -4px;
+    top: 0;
+    width: 20%;
+}
+
+#countdown{
+    font-size: 17px;
+    margin-top: 70px;
+    margin-right: -97px;
+    float: right;
+}
+
+.mifl{
+    margin-top: -15px;
+    text-align: center;
+    margin-right: auto;
+    margin-left: auto;
+    width: 50%;
+    display: block;
+}
+
+
+
+
