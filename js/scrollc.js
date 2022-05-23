@@ -103,3 +103,39 @@ ScrollReveal().reveal('#footer', {
     distance: '-80px'
 })
 
+ScrollReveal().reveal('.mainparr',{
+    delay: 500,
+    duration: 1500,
+    origin: 'bottom',
+    distance: '-80px'
+})
+
+ScrollReveal().reveal('.razf',{
+    delay: 500,
+    duration: 1500,
+    origin: 'bottom',
+    distance: '-80px'
+})
+
+ScrollReveal().reveal('.hr1',{
+    delay: 500,
+    duration: 1500,
+    origin: 'bottom',
+    distance: '-80px'
+})
+
+ScrollReveal().reveal('.parr1',{
+    delay: 500,
+    duration: 1500,
+    origin: 'bottom',
+    distance: '-80px'
+})
+
+ScrollReveal().reveal('.hr1',{
+    delay: 500,
+    duration: 1500,
+    origin: 'bottom',
+    distance: '-80px'
+})
+
+

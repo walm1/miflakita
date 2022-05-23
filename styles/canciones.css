@@ -217,12 +217,14 @@ body{
 }
 
 #cucod{
-    width: 49%;
-    float: left;
-    display: block;
+    float: right;
     margin-right: auto;
-    margin-left: 40px;
+    margin-left: auto;
     margin-top: 30px;
+}
+
+.cuco{
+    margin-right: 40px;
 }
 
 .cucot{
@@ -231,16 +233,19 @@ body{
 }
 
 #kevind{
-    float: right;
-    margin-right: -5px;
-    margin-left: 90px;
-    margin-top: -506px;
+    float: left;
+    margin-right: auto;
+    margin-left: auto;
 }
-
 .kevint{
-    margin-top: 30px;
+    margin-top: 39px;
+    margin-left: 40px;
     margin-bottom: 1px;
 }
+.kevin{
+    margin-left: 40px;
+}
+
 
 .cucop{
     opacity: 1;
@@ -272,7 +277,7 @@ body{
 }
 
 .kevinp{
-    margin-right: 40px;
+    margin-left: 40px;
     opacity: 1;
     border-radius: 0px 0px 15px 15px;
     margin-top: -4px;
@@ -282,13 +287,15 @@ body{
 }
 
 .hr3{
-    margin-top: 1100px;
-    opacity: .15;
+    height: 1px;
     width: 20%;
+    margin-right: auto;
+    margin-left: 490px;   
+    margin-top: 50px; 
+    opacity: .15;
 }
 
 .fparraf{
-    visibility:visible;
     text-align: center;
     width: 50%;
     margin-left: auto;

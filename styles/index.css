@@ -1,6 +1,7 @@
 
 body{
     font-family: 'Roboto Condensed', sans-serif;
+    overflow-x: hidden;
 }
 
 .ramo{
@@ -106,6 +107,23 @@ hr{
     display: block;
 }
 
+@media(max-width: 1204px){
+    body{
+        overflow-x: hidden;
+    }
+    #footer{
+        height: 200px;
+        margin-bottom: -200px;
+    }
+    .flores{
+        margin-bottom:0px;
+        width: 35%;
+        margin-left: 90px;
+    }
+    .flores1{
+        visibility: hidden;
+    }
+}
 
 
 
