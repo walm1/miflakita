@@ -114,7 +114,10 @@ hr{
     }
 }
 
-@media (max-width: 1024px){
+@media (max-width: 1172px){
+    #footer{
+        margin-left: 170px;
+    }
     .flores1{
         display: none;
     }
