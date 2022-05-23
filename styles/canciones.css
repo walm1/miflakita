@@ -332,6 +332,17 @@ body{
     }
 }
 
+@media (max-width: 1324px){
+    .flores{
+        margin-left: 60px;
+    }
+}
+@media (max-width: 1236px){
+    .flores{
+        margin-left: 40px;
+    }
+}
+
 
 
 

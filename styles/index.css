@@ -115,11 +115,19 @@ hr{
 }
 
 @media (max-width: 1024px){
-    
-    
-    
     .flores1{
         display: none;
+    }
+}
+
+@media (max-width: 1324px){
+    .flores{
+        margin-left: 60px;
+    }
+}
+@media (max-width: 1236px){
+    .flores{
+        margin-left: 40px;
     }
 }
 
