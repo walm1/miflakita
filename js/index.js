@@ -28,7 +28,7 @@ function currentTime(){
 }
 
 function countDown(){
-    var countDownDate = new Date("May 20, 2022 23:11:00").getTime();
+    var countDownDate = new Date("May 22, 2022 23:11:00").getTime();
 
 // Update the count down every 1 second
     var x = setInterval(function() {

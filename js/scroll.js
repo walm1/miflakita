@@ -57,8 +57,8 @@ const navbar = document.querySelector('#navbar')
   })
 
   ScrollReveal().reveal('.footer', {
-    delay: 500,
-    duration: 1500,
+    delay: 100,
+    duration: 1000,
     origin: 'top',
     distance: '50px'
   })

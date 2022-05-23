@@ -1,0 +1,84 @@
+body{
+    font-family: 'Roboto Condensed', sans-serif;
+}
+
+#navbar{
+    z-index: 1;
+    position: fixed;
+    transition: 0.3s;
+    top: 0;
+    width: 100%;
+    font-size: 19px;
+    margin-left: -8px;
+    margin-top: -24px;
+    background-color: black;
+    height: 120px;
+    border-radius: 0px 0px 12px 12px;
+}
+
+#arrow{
+    color: white;
+    width: 100%;
+}
+
+.title{
+    color: white ;
+    margin-top: 60px;
+    font-size: 20px;
+    text-align: center;
+    margin-right: auto;
+    margin-left: auto;
+    width: 50%;
+}
+
+#back{
+    width: 6.2%;
+    cursor:pointer;
+    margin-left: 60px;
+    margin-top: -41px;
+    opacity: .8;
+    color: white;
+}
+
+.atras{
+    font-size: 21px;
+    margin-top: -29.8px;
+    color: white;
+    margin-left: 35px;
+}
+
+.mainparr{
+    margin-top: 150px;
+    width: 60%;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+
+.razf{
+    margin-top: 100px;
+    width: 60%;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+
+.hr1{
+    margin-top: -20px;
+    opacity: .2;
+    width: 15%;
+}
+
+.flores{
+    margin-top: 130px;
+    margin-left: 50px;
+}
+
+.parr1{
+    margin-top: 50px;
+    width: 70%;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+

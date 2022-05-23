@@ -1,0 +1,302 @@
+body{
+    font-family: 'Roboto Condensed', sans-serif;
+}
+
+
+#navbar{
+    z-index: 1;
+    position: fixed;
+    transition: 0.3s;
+    top: 0;
+    width: 100%;
+    font-size: 19px;
+    margin-left: -8px;
+    /* width: 1208px; */
+    margin-top: -24px;
+    background-color: black;
+    height: 120px;
+    border-radius: 0px 0px 12px 12px;
+}
+
+#arrow{
+    color: white;
+    width: 100%;
+}
+
+#back{
+    width: 6.2%;
+    cursor:pointer;
+    margin-left: 60px;
+    margin-top: -41px;
+    opacity: .8;
+    color: white;
+}
+
+.atras{
+    font-size: 21px;
+    margin-top: -29.8px;
+    color: white;
+    margin-left: 35px;
+}
+
+.mac{
+    float: left;
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: -20px;
+}
+
+#macd{
+    margin-left: 40px;
+}
+
+.mact{
+    margin-top: 100px;
+}
+
+.title{
+    color: white ;
+    margin-top: 60px;
+    font-size: 20px;
+    text-align: center;
+    margin-right: auto;
+    margin-left: auto;
+    width: 50%;
+}
+
+.hr1{
+    opacity: .1;
+    margin-top: -10px;
+    align-items: center;
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+    width: 9%;
+}
+
+
+.parr{
+    margin-right: auto;
+    margin-left: auto;
+    width: 50%;
+    margin-top: 150px;
+}
+
+
+.tt{
+    margin-top: 100px;
+    text-align: center;
+    margin-right: auto;
+    margin-left: auto;
+    width: 50%;
+    display: block;
+}
+
+#kanyd{
+    float: right;
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: -89px;
+}
+
+.kanyt{
+    margin-top: 39px;
+    margin-bottom: 1px;
+}
+
+.kanye{
+    margin-right: 40px;
+}
+
+#tylerd{
+    float: left;
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 30px;
+}
+
+.tyler{
+    margin-left: 40px;
+}
+
+.tylert{
+    margin-left: 40px;
+    margin-bottom: 1px;
+}
+
+#lanad{
+    float: right;
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 6px;
+}
+
+.lana{
+    margin-right: 40px;
+}
+
+.lanat{
+    margin-top: 40px;
+    margin-bottom: 1px;
+}
+
+#lessongs{
+    margin-bottom: 300px;
+    margin-top: -17px;
+}
+
+.parr2{
+    margin-top: 790px;
+    display: block;
+    text-align: center;
+    width: 50%;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.mitop{
+    text-align: center;
+    margin-top: 120px;
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.hr2{
+    margin-top: -10px;
+    width: 9%;
+    opacity: 0.1;
+}
+
+#macded{
+    float: left;
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 30px;
+}
+
+.macdet{
+    margin-left: 40px;
+    margin-bottom: 1px;
+}
+
+.macde{
+    margin-left: 40px;
+}
+
+#criud{
+    float: right;
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 6px;
+}
+
+.criu{
+    margin-right: 40px;
+}
+
+.criut{
+    margin-top: 43px;
+    margin-bottom: 1px;
+}
+
+.footer{
+    width: 100%;
+    display: flex;
+}
+
+.flores{
+    margin-top: 150px;
+    margin-left: 50px;
+}
+
+#cucod{
+    width: 49%;
+    float: left;
+    display: block;
+    margin-right: auto;
+    margin-left: 40px;
+    margin-top: 30px;
+}
+
+.cucot{
+    margin-top: 10px;
+    margin-bottom: 1px;
+}
+
+#kevind{
+    float: right;
+    margin-right: -5px;
+    margin-left: 90px;
+    margin-top: -506px;
+}
+
+.kevint{
+    margin-top: 30px;
+    margin-bottom: 1px;
+}
+
+.cucop{
+    opacity: 1;
+    border-radius: 0px 0px 15px 15px;
+    margin-top: -4px;
+    padding: 10px;
+    background-color: rgb(211, 210, 210);
+    width: 540px;
+}
+
+.macdep{
+    margin-left: 40px;
+    opacity: 1;
+    border-radius: 0px 0px 15px 15px;
+    margin-top: -4px;
+    padding: 10px;
+    background-color: rgb(211, 210, 210);
+    width: 540px;
+}
+
+.criup{
+    margin-right: 40px;
+    opacity: 1;
+    border-radius: 0px 0px 15px 15px;
+    margin-top: -4px;
+    padding: 10px;
+    background-color: rgb(211, 210, 210);
+    width: 540px;
+}
+
+.kevinp{
+    margin-right: 40px;
+    opacity: 1;
+    border-radius: 0px 0px 15px 15px;
+    margin-top: -4px;
+    padding: 10px;
+    background-color: rgb(211, 210, 210);
+    width: 540px;
+}
+
+.hr3{
+    margin-top: 1100px;
+    opacity: .15;
+    width: 20%;
+}
+
+.fparraf{
+    visibility:visible;
+    text-align: center;
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 30px;
+}
+
+
+
+
+

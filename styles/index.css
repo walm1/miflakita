@@ -1,3 +1,4 @@
+
 body{
     font-family: 'Roboto Condensed', sans-serif;
 }
@@ -13,13 +14,13 @@ body{
 }
 
 #navbar{
-    position: fixed;
+    z-index: 1;
     transition: 0.3s;
+    position: fixed;
     top: 0;
     width: 100%;
     font-size: 19px;
     margin-left: -8px;
-    /* width: 1208px; */
     margin-top: -24px;
     background-color: black;
     height: 120px;
