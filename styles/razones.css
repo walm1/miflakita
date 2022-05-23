@@ -82,5 +82,18 @@ body{
     text-align: center;
 }
 
+@media (max-width: 1440px) {
+    .flores{
+        margin-left: 90px;
+    }
+}
 
+@media (max-width: 1024px){
+    
+    
+    
+    .flores1{
+        display: none;
+    }
+}
 

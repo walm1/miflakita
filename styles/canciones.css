@@ -303,6 +303,34 @@ body{
     margin-top: 30px;
 }
 
+@media (max-width: 1440px) {
+    .hr3{
+        margin-left: 567px;
+    }
+    .flores{
+        margin-left: 90px;
+    }
+}
+
+@media (max-width: 1024px){
+    .hr3{
+        margin-left: 410px;
+        margin-top: 2097px;
+    }
+    #kanyd{
+        float: right;
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: -14px;
+    }
+    .parr2{
+        margin-top: 1526px;
+    }
+    .flores1{
+        display: none;
+    }
+}
 
 
 
